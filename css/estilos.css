@@ -157,11 +157,13 @@ p {
   border-radius: 6px;
   border: 3px solid transparent;
   transition: border-color 0.2s, transform 0.2s;
+  background-size: cover;
+  background-position: center;
 }
 
-.gallery__thumb--1 { background-color: #3498db; }
-.gallery__thumb--2 { background-color: #9b59b6; }
-.gallery__thumb--3 { background-color: #1abc9c; }
+.gallery__thumb--1 { background-image: url("../img/ecommerce.jpg"); }
+.gallery__thumb--2 { background-image: url("../img/landing.jpg"); }
+.gallery__thumb--3 { background-image: url("../img/dashboard.jpg"); }
 
 .gallery__item:hover .gallery__thumb {
   border-color: #2c3e50;
