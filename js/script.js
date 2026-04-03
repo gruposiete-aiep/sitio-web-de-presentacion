@@ -21,17 +21,17 @@ var proyectos = [
   {
     titulo: "E-Commerce",
     descripcion: "Tienda online con listado de productos, carrito de compras y formulario de pago.",
-    tecnologias: "Tecnologías: HTML, CSS, JavaScript"
+    tecnologias: "Ideal para: Retail, Emprendedores, Catálogos de productos."
   },
   {
     titulo: "Landing Page",
     descripcion: "Página de presentación para una startup, con sección de precios y formulario de contacto.",
-    tecnologias: "Tecnologías: HTML, CSS, PHP"
+    tecnologias: "Ideal para: Agencias, Consultoras, Lanzamientos de marca." 
   },
   {
     titulo: "Dashboard",
     descripcion: "Panel de métricas con tablas de datos y filtros interactivos para visualizar estadísticas.",
-    tecnologias: "Tecnologías: HTML, CSS, JavaScript"
+    tecnologias: "Ideal para: Administración interna, Análisis de métricas, Inventarios."
   }
 ];
 
