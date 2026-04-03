@@ -1,9 +1,9 @@
 /**
- * script.js — PixelForge Agency
+ * script.js — Codeando Tu Web 
  *
  * Funcionalidades:
  *  1. Año dinámico en el footer
- *  2. Galería de proyectos: mostrar detalle al hacer clic
+ *  2. Galería de soluciones: mostrar detalle al hacer clic
  *  3. Validación del formulario de contacto
  */
 
@@ -13,10 +13,10 @@
 document.getElementById('year').textContent = new Date().getFullYear();
 
 /* ----------------------------------------------------------
-   2. GALERÍA DE PROYECTOS
+   2. GALERÍA DE Soluciones
    ---------------------------------------------------------- */
 
-// Datos de cada proyecto
+// Datos de cada Solución
 var proyectos = [
   {
     titulo: "E-Commerce",
