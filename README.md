@@ -48,7 +48,7 @@ JavaScript (interactividad)
 | `index.html` | Estructura del formulario |
 | `style.css` | Estilos visuales |
 | `script.js` | Lógica de validación y promesa |
-| `XXXXX` | Informe grupal del proyecto |
+| `XXXX` | Informe grupal del proyecto |
 
 ## Informe asociado
 
