@@ -15,7 +15,7 @@ body {
   font-family: Arial, sans-serif;
   font-size: 16px;
   color: #333;
-  background-color: #f5f5f5;
+  background-color: #98b8f5;
 }
 
 main {
@@ -27,7 +27,7 @@ main {
 h2 {
   font-size: 1.6rem;
   margin-bottom: 16px;
-  color: #222;
+  color: #1a56db;
 }
 
 p {
@@ -89,27 +89,27 @@ p {
   border-radius: 8px;
 }
 
-/* Columna verde: Presentación */
+/* Columna izquierda: Quienes Somos */
 .split__col--green {
-  background-color: #e8f5e9;
-  border-left: 5px solid #4caf50;
+  background-color: #e8f0fb;
+  border-left: 5px solid #1a56db;
 }
 
 .split__col--green h2 {
-  color: #2e7d32;
+  color: #1a56db;
 }
 
-/* Columna amarilla: Habilidades */
+/* Columna derecha: Nuestros Valores */
 .split__col--yellow {
-  background-color: #fff8e1;
-  border-left: 5px solid #ffc107;
+  background-color: #dbeafe;
+  border-left: 5px solid #1a56db;
 }
 
 .split__col--yellow h2 {
-  color: #f57f17;
+  color: #1a56db;
 }
 
-/* Lista de habilidades */
+/* Lista de Nuestros Valores */
 .skills-list {
   list-style: none;
   padding: 0;
@@ -117,7 +117,7 @@ p {
 
 .skills-list li {
   padding: 10px 0;
-  border-bottom: 1px solid #ffe082;
+  border-bottom: 1px solid #93c5fd;
   font-size: 0.95rem;
 }
 
@@ -127,15 +127,15 @@ p {
 
 .skills-list li::before {
   content: "✔ ";
-  color: #ffa000;
+  color: #1a56db;
   font-weight: bold;
 }
 
 /* ----------------------------------------------------------
-   SECCIÓN PROYECTOS
+   SECCIÓN NUESTRAS SOLUCIONES
    ---------------------------------------------------------- */
 .projects {
-  background-color: #6e88dd;
+  background-color: #dbeafe;
   padding: 30px;
   border-radius: 8px;
   margin-bottom: 30px;
@@ -143,7 +143,7 @@ p {
 }
 
 .projects__sub {
-  color: #666;
+  color: #1e40af;
   margin-bottom: 20px;
 }
 
@@ -163,7 +163,7 @@ p {
 .gallery__item p {
   margin-top: 6px;
   font-size: 0.9rem;
-  color: #555;
+  color: #1a56db;
   margin-bottom: 0;
 }
 
@@ -183,15 +183,15 @@ p {
 .gallery__thumb--3 { background-image: url("../img/dashboard.jpg"); }
 
 .gallery__item:hover .gallery__thumb {
-  border-color: #2c3e50;
+  border-color: #1e40af;
   transform: scale(1.04);
 }
 
-/* Panel de detalle del proyecto seleccionado */
+/* Panel de detalle del solución seleccionada */
 .gallery__detail {
   display: none;
-  background-color: white;
-  border: 1px solid #ddd;
+  background-color: #f0f5ff;
+  border: 1px solid #93c5fd;
   border-radius: 8px;
   padding: 20px;
   margin-top: 20px;
@@ -199,26 +199,26 @@ p {
 
 .gallery__detail h3 {
   margin-bottom: 10px;
-  color: #2c3e50;
+  color: #1e40af;
 }
 
 .gallery__close {
   background: none;
-  border: 1px solid #ccc;
+  border: 1px solid #93c5fd;
   border-radius: 4px;
   padding: 4px 12px;
   cursor: pointer;
   margin-bottom: 12px;
   font-size: 0.85rem;
-  color: #555;
+  color: #1a56db;
 }
 
 .gallery__close:hover {
-  background-color: #eee;
+  background-color: #dbeafe;
 }
 
 /* ----------------------------------------------------------
-   SECCIÓN CONTACTO
+   SECCIÓN CONTÁCTANOS
    ---------------------------------------------------------- */
 .contact {
   background-color: #fafafa;
