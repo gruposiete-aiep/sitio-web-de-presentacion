@@ -26,8 +26,8 @@ HTML (estructura)
 
 CSS (estilos)
 
-- Diseño de dos columnas para Presentación y Habilidades usando Flexbox
-- Colores diferenciados por sección (verde para Presentación, amarillo para Habilidades)
+- Diseño de dos columnas para Quiénes Somos y Nuestros Valores usando Flexbox
+- Colores diferenciados por sección (Quiénes Somos, Nuestros Valores, Nuestras Soluciones y Contáctanos)
 - Borde lateral de color como detalle visual en cada columna
 - Estilos para estados de hover en las miniaturas de la galería (borde + escala)
 - Estilos de error en rojo para campos inválidos del formulario
@@ -36,7 +36,7 @@ CSS (estilos)
 JavaScript (interactividad)
 
 - Año dinámico en el footer usando new Date().getFullYear()
-- Galería de proyectos: al hacer clic en una miniatura se muestra un panel con título, descripción y tecnologías usadas
+- Galería de "Nuestras Soluciones": al hacer clic en una miniatura se muestra un panel con título, descripción y uso ideal
 - Botón "Cerrar" para ocultar el panel de detalle de la galería
 - Validación del formulario de contacto campo por campo (nombre, email, servicio, mensaje)
 - Validación de formato de email con expresión regular
@@ -47,7 +47,7 @@ JavaScript (interactividad)
 | Archivo | Descripción |
 |---|---|
 | `index.html` | Estructura del formulario |
-| `style.css` | Estilos visuales |
+| `estilos.css` | Estilos visuales |
 | `script.js` | Lógica de validación y promesa |
 | `CIB302-Informe_SitioWeb_Grupo7.docx` | Informe grupal del proyecto |
 
