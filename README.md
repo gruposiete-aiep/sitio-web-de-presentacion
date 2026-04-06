@@ -8,6 +8,7 @@ Institución: AIEP – Universidad Andrés Bello
 ## Descripción
 
 Pagina web de presentación de agencia digital (ficticia).
+Sitio WEB: https://gruposiete-aiep.github.io/sitio-web-de-presentacion/
 
 ## Tecnologías utilizadas
 
@@ -20,7 +21,7 @@ Pagina web de presentación de agencia digital (ficticia).
 HTML (estructura)
 
 - Página dividida en 4 secciones: Header, Presentación/Habilidades, Proyectos y Contacto
-- Uso de etiquetas semánticas: <header>, <main>, <section>, <footer>, <article>
+- Uso de etiquetas semánticas: header, main, section, footer, article
 - Formulario con campos de texto, email, select y textarea
 
 CSS (estilos)
@@ -48,11 +49,11 @@ JavaScript (interactividad)
 | `index.html` | Estructura del formulario |
 | `style.css` | Estilos visuales |
 | `script.js` | Lógica de validación y promesa |
-| `XXXX` | Informe grupal del proyecto |
+| `CIB302-Informe_SitioWeb_Grupo7.docx` | Informe grupal del proyecto |
 
 ## Informe asociado
 
-
+https://github.com/gruposiete-aiep/sitio-web-de-presentacion/blob/main/CIB302-Informe_SitioWeb_Grupo7.docx
 
 ## Integrantes
 
